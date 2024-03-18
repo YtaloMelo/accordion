@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+html {
+    height: 150%;
+
+}
+
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+    background: rgb(107, 99, 231);
+    background: linear-gradient(0deg, rgba(107, 99, 231, 1) 0%, rgba(163, 99, 231, 1) 69%);
+}
+
+
+
+.painel {
+    background-image: url(IMAGE/bg-pattern-desktop.svg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: -114px;
+    background-color: rgb(255, 255, 255);
+    width: 75%;
+    margin: 150px auto;
+    padding: 30px;
+    border-radius: 25px;
+    box-shadow: 15px 30px 50px #1e1f3b8e;
+
+}
+
+.imagem1 {
+    min-width: 40%;
+    max-width: 100%;
+    position: relative;
+    left: -114px;
+    margin-top: 90px;
+    bottom: 40px;
+}
+
+#imagem2 {
+    min-width: 40%;
+    max-width: 100%;
+    position: relative;
+    bottom: 150px;
+}
+
+#itens{
+    align-items: center;
+    min-width: 40%;
+    max-width: 100%;
+    position: relative;
+    bottom: 60px;
+}
+
+#itens-1{
+    align-items: center;
+    min-width: 40%;
+    max-width: 100%;
+    position: relative;
+    bottom: -90px;
+}
+
+.title_accordion {
+    font-size: 3rem;
+    margin-top: 0px;
+    
+}
+
+.title_accordion_sec {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.accordion {
+    min-width: 40%;
+    max-width: 100%;
+    position: relative;
+    bottom: 100px;
+    
+}
+
+
+.fundo {
+    min-width: 40%;
+    max-width: 100%;
+    position: relative;
+    bottom: 200px;
+}
+
